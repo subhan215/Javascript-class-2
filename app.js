@@ -71,7 +71,7 @@ var newNum = ++num - num-- + num++ + --num - ++num
 
 
 // Marksheet
-var name = prompt("Enter your name  ", "Name: Subhan");
+/* var name = prompt("Enter your name  ", "Name: Subhan");
 document.write(name);
 document.write("<br>")
 
@@ -117,3 +117,4 @@ document.write(percentagename);
 
 var percentage = (obtainmarks / 500) * 100;
 document.write(percentage);
+ */
